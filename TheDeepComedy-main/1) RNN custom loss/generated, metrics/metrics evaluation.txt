@@ -1,0 +1,8 @@
+Number of putative terzine: 46
+Number of well formed terzine: 45
+
+Average structuredness: 0.9784
+Average hendecasyllabicness: 0.9584
+Average rhymeness: 0.2575
+
+Ngrams_plagiarism : 0.9943
